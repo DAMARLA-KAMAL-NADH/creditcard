@@ -14,3 +14,4 @@ This web application offers real-time risk assessment powered by a Logistic Regr
   joblib==1.3.2
 ##################
   👉👉👉👉👉👉👉    Instant creditcard prediction web app --> https://creditcard-a8vnrgsrwujmty5ctny7f2.streamlit.app/
+

@@ -1,14 +1,6 @@
 # Credit Risk Prediction App
 A Streamlit web app that predicts credit risk using machine learning. Users can input financial details to get instant risk assessments with visual explanations
-
-#Feautures
-
-* Real-time risk assessment using Logistic Regression
-  Interactive input form for applicant details
-  Visual risk probability meter
-  Model persistence with joblib
-  Deployment-ready configuration
-
+This web application offers real-time risk assessment powered by a Logistic Regression model. Users can input applicant details through an intuitive and interactive form. To enhance interpretability, the app includes a visual probability meter that displays the predicted risk level clearly.
 
 ## Requirements
 

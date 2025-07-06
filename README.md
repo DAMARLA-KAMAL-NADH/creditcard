@@ -13,5 +13,5 @@ This web application offers real-time risk assessment powered by a Logistic Regr
   pandas==2.1.4
   joblib==1.3.2
 ##################
-  👉👉👉👉👉👉👉    Instant creditcard prediction web app --> https://creditcard-a8vnrgsrwujmty5ctny7f2.streamlit.app/
+  👉👉 Instant creditcard prediction web app --> https://creditcard-a8vnrgsrwujmty5ctny7f2.streamlit.app/
 
